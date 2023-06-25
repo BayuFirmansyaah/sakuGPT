@@ -1,66 +1,43 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# SakuGPT
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub Issues](https://img.shields.io/github/issues/username/sakuGPT.svg)
+![GitHub Stars](https://img.shields.io/github/stars/username/sakuGPT.svg)
 
-## About Laravel
+Selamat datang di proyek SakuGPT! Proyek ini adalah sebuah program atau perangkat lunak yang dapat membantu Anda mencatat aplikasi keuangan secara efisien dengan menggunakan integrasi WhatsApp dan ChatGPT.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Deskripsi
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+SakuGPT adalah sebuah proyek yang menggabungkan kekuatan teknologi ChatGPT dengan platform WhatsApp untuk menyediakan solusi pencatatan keuangan yang mudah digunakan. Dengan SakuGPT, Anda dapat melakukan pencatatan pengeluaran, mengatur anggaran, mendapatkan saran keuangan, dan juga membagi tagihan dengan mudah menggunakan fitur Split Bill.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Fitur Utama
 
-## Learning Laravel
+- **Pencatatan Pengeluaran**: SakuGPT memungkinkan Anda mencatat pengeluaran secara mudah dan cepat melalui WhatsApp. Cukup kirim pesan dengan detail transaksi, dan SakuGPT akan mencatatnya untuk Anda.
+- **Pengaturan Anggaran**: Anda dapat mengatur anggaran bulanan dan SakuGPT akan memberikan pembaruan secara berkala tentang kemajuan Anda terhadap anggaran tersebut.
+- **Saran Keuangan**: SakuGPT dilengkapi dengan kemampuan ChatGPT yang cerdas. Anda dapat mengajukan pertanyaan keuangan dan mendapatkan saran atau informasi yang berguna melalui percakapan dengan SakuGPT di WhatsApp.
+- **Split Bill**: SakuGPT juga memiliki fitur Split Bill yang memungkinkan Anda membagi tagihan dengan teman-teman Anda secara mudah. Cukup berikan detail tagihan dan daftar orang yang terlibat, dan SakuGPT akan menghitung pembayaran masing-masing dan mengirimkannya langsung ke nomor WhatsApp yang ditentukan.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Instalasi
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+...
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Penggunaan
 
-## Laravel Sponsors
+...
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Split Bill
 
-### Premium Partners
+Untuk menggunakan fitur Split Bill, ikuti langkah-langkah berikut:
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+1. Kirim pesan ke nomor WhatsApp SakuGPT.
+2. Tuliskan perintah "Split Bill" diikuti dengan detail tagihan dan daftar orang yang terlibat. Contoh: "Split Bill: Total Tagihan = $100, Orang 1, Orang 2, Orang 3".
+3. SakuGPT akan menghitung pembayaran masing-masing orang secara merata dan mengirimkannya ke nomor WhatsApp yang ditentukan.
+4. Cek pesan di nomor WhatsApp tersebut untuk melihat pembayaran yang harus dibayarkan oleh setiap orang.
 
-## Contributing
+Pastikan untuk mengganti "NomorWhatsAppTujuan" dengan nomor WhatsApp yang ingin Anda tuju untuk menerima hasil perhitungan pembayaran.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Hubungi Saya
 
-## Code of Conduct
+...
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Terima kasih telah mengunjungi profil GitHub saya! Saya berharap Anda menemukan proyek dan repositori yang menarik di sini.
